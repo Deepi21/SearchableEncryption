@@ -1,0 +1,33 @@
+#div1{
+    height: 25%;
+    background-color: azure;
+    
+}
+#div2{
+    height: 75%;
+    background-color: aliceblue;
+}
+
+img{
+    height:120%;
+    float:right;
+}
+
+#heading{
+    
+    margin-left: 30px;
+    font-family: fantasy;
+    font-size: 60px;
+    color: cadetblue;
+    line-height: 180px;
+}
+
+td,#key{
+    font-weight: bold;
+    color: cadetblue;
+    font-size: 20px;
+}
+
+form{
+    padding:80px;
+}
